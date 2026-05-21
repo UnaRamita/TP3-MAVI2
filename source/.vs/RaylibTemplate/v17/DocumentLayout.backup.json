@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:SpringBouncer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:SpringBouncer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:DynamicObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:DynamicObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:StaticObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Preview.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Preview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:PhysicsManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:StaticObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FAFCF8-D32D-4BA8-A65C-6A8FA57D8349}|RaylibTemplate.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpringBouncer.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.h",
+              "RelativeDocumentMoniker": "SpringBouncer.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.h",
+              "RelativeToolTip": "SpringBouncer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-19T01:00:21.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpringBouncer.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.cpp",
+              "RelativeDocumentMoniker": "SpringBouncer.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\SpringBouncer.cpp*",
+              "RelativeToolTip": "SpringBouncer.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T01:52:08.121Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicObject.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.h",
+              "RelativeDocumentMoniker": "DynamicObject.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.h",
+              "RelativeToolTip": "DynamicObject.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T22:43:36.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Config.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Config.h",
+              "RelativeDocumentMoniker": "Config.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Config.h",
+              "RelativeToolTip": "Config.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T22:28:19.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticObjects.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.h",
+              "RelativeDocumentMoniker": "StaticObjects.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.h",
+              "RelativeToolTip": "StaticObjects.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T23:36:30.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DynamicObject.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.cpp",
+              "RelativeDocumentMoniker": "DynamicObject.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\DynamicObject.cpp",
+              "RelativeToolTip": "DynamicObject.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T22:43:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T22:09:03.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T22:37:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Preview.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.h",
+              "RelativeDocumentMoniker": "Preview.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.h",
+              "RelativeToolTip": "Preview.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T14:56:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T22:38:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhysicsManager.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.h",
+              "RelativeDocumentMoniker": "PhysicsManager.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.h",
+              "RelativeToolTip": "PhysicsManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T23:15:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.cpp",
+              "RelativeDocumentMoniker": "Input.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.cpp",
+              "RelativeToolTip": "Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T01:03:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Preview.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.cpp",
+              "RelativeDocumentMoniker": "Preview.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Preview.cpp",
+              "RelativeToolTip": "Preview.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T14:56:52.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhysicsManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.cpp",
+              "RelativeDocumentMoniker": "PhysicsManager.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\PhysicsManager.cpp",
+              "RelativeToolTip": "PhysicsManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T23:16:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaticObjects.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.cpp",
+              "RelativeDocumentMoniker": "StaticObjects.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\StaticObjects.cpp",
+              "RelativeToolTip": "StaticObjects.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T23:38:13.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.h",
+              "RelativeDocumentMoniker": "Input.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Input.h",
+              "RelativeToolTip": "Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T01:03:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.h",
+              "RelativeDocumentMoniker": "Window.h",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.h",
+              "RelativeToolTip": "Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T22:32:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.cpp",
+              "RelativeDocumentMoniker": "Window.cpp",
+              "ToolTip": "C:\\Users\\Zelmar\\Dropbox\\Mi PC (DESKTOP-9GGJTG1)\\Desktop\\Facu Programacion\\A\u00F1o 2 C1\\MAVI 2\\TP3\\source\\Window.cpp",
+              "RelativeToolTip": "Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T22:32:26.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
